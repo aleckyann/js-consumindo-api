@@ -1,16 +1,27 @@
-<p align="center"> <img src="https://imgur.com/KXUnUsg.png" alt="HTML e CSS: praticando HTML e CSS"> </p>
+### ASYNC AWAIT
 
-<hr>
+```
+async function x(){
+    let res = wait fetch();
+}
+```
 
-<p align="center"> <img src="https://github.com/MonicaHillman/js-consumindo-dados-api/blob/aula05/img/Logo.svg" alt="Logo da alura books"> </p>
-<p align="center">Um formulário de cadastro da plataforma AluraBooks, uma livraria on-line que vende livros técnicos. Nesse formulário implementamos o auto preenchimento de informações do endereço através do valor do CEP inserido pelo usuário.</p>
+### FETCH API
 
-## Tecnologias utilizadas durante o curso
-* Javascript
+```
+fetch().then().catch().then()
+```
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
 
-## Screenshots
-![Screenshot da tela do formulário do AluraBooks](https://imgur.com/bupnUfx.png)
+### TRY CATCH
+```
+try {
+    //...
+} catch(erro){
+    console.log(erro)
+}
+```
+
+
+
+
